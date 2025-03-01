@@ -1,0 +1,16 @@
+{
+    "name": "uniswap-v3-miner",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "ponder start",
+      "dev": "ponder dev",
+      "codegen": "ponder codegen"
+    },
+    "dependencies": {
+      "@ponder/core": "^0.2.5",
+      "viem": "^2.0.0"
+    },
+    "devDependencies": {
+      "typescript": "^5.3.3"
+    }
+  }
